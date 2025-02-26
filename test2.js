@@ -1,0 +1,1 @@
+function multiply(a, b) { return a; } expect(multiply(2, 2)).toBe(4); 
